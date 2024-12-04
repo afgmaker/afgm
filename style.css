@@ -1,0 +1,50 @@
+.bg-custom{
+  background-color: #712cf9;
+}
+
+.link-custom{
+  color: #712cf9;
+  text-decoration: none;
+}
+
+.link-custom:hover{
+  text-decoration: underline;
+}
+
+.btn-floating{
+  position: fixed;
+  bottom: 50px;
+  right:50px;
+}
+
+
+.card-clickable{height: 400px;}
+
+.card{margin-bottom: 5px;}
+
+.card-clickable:hover{
+  cursor:pointer;
+  border-color: #712cf9 ;
+  color: #712cf9;
+}
+
+.padding-bottom{
+  padding-bottom: 270px;
+}
+
+footer {
+   padding-bottom: 0.1;
+   margin-top: 80px;
+   width: 100%;
+   color:grey;
+}
+
+.social-media{
+  display: inline-block;
+}
+
+.card{
+  border-color: grey;
+  min-height: 200px;
+}
+
